@@ -1,5 +1,7 @@
 RENCANA KULIAH
 - Memperhatikan dosen di kelas
-- Mencatat materi di loose lef
+  * Menyesuaikan karakteristik dosen
+  * Aktif bertanya di kelas
+- Mencatat materi di loose leaf
 - Menata loose leaf ke binder
 - Rajin review materi
