@@ -3,4 +3,5 @@ WPU RESOLUSI SEMESTER 1 - TEKNIK INFORMATIKA ITS 25
 - Memahami kuliah Dasar Pemrograman dan Kalkulus
 - Rajin praktek coding
 - Mengikuti UKM Robotik
-- Mendaftar sebagai Panitia MABA CUP
+- Mendaftar sebagai Panitia MABA CUP 2025
+- Membuat project kecil
